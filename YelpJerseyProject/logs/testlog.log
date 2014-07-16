@@ -1,0 +1,81 @@
+2014-04-27 12:23:34,496 - com.recommendation.restaurant.Yelp - DEBUG - Parsed the response from the server, Incident fetched
+2014-04-27 12:23:34,497 - com.recommendation.restaurant.Yelp - DEBUG - ERROR: Cannot parse the JSON response receieved from server
+org.json.JSONException: JSONObject["phone"] not found.
+	at org.json.JSONObject.get(JSONObject.java:454)
+	at com.recommendation.restaurant.Utility.filterJSONResponse(Utility.java:42)
+	at com.recommendation.restaurant.Yelp.getRestaurantSearched(Yelp.java:55)
+	at com.recommendation.restaurant.Yelp.search(Yelp.java:89)
+	at com.recommendation.restaurant.Yelp.main(Yelp.java:96)
+2014-04-27 12:24:50,929 - com.recommendation.restaurant.Yelp - DEBUG - Parsed the response from the server, Incident fetched
+2014-04-27 12:24:50,931 - com.recommendation.restaurant.Yelp - DEBUG - ERROR: Cannot parse the JSON response receieved from server
+org.json.JSONException: JSONObject["phone"] not found.
+	at org.json.JSONObject.get(JSONObject.java:454)
+	at com.recommendation.restaurant.Utility.filterJSONResponse(Utility.java:30)
+	at com.recommendation.restaurant.Yelp.getRestaurantSearched(Yelp.java:55)
+	at com.recommendation.restaurant.Yelp.search(Yelp.java:89)
+	at com.recommendation.restaurant.Yelp.main(Yelp.java:96)
+2014-04-27 12:25:50,398 - com.recommendation.restaurant.Yelp - DEBUG - Parsed the response from the server, Incident fetched
+2014-04-27 12:25:50,399 - com.recommendation.restaurant.Yelp - DEBUG - ERROR: Cannot parse the JSON response receieved from server
+org.json.JSONException: JSONObject["image_url"] not found.
+	at org.json.JSONObject.get(JSONObject.java:454)
+	at com.recommendation.restaurant.Utility.filterJSONResponse(Utility.java:30)
+	at com.recommendation.restaurant.Yelp.getRestaurantSearched(Yelp.java:55)
+	at com.recommendation.restaurant.Yelp.search(Yelp.java:89)
+	at com.recommendation.restaurant.Yelp.main(Yelp.java:96)
+2014-04-27 12:26:12,106 - com.recommendation.restaurant.Yelp - DEBUG - Parsed the response from the server, Incident fetched
+2014-04-27 12:26:12,107 - com.recommendation.restaurant.Yelp - DEBUG - ERROR: Cannot parse the JSON response receieved from server
+org.json.JSONException: JSONObject["image_url"] not found.
+	at org.json.JSONObject.get(JSONObject.java:454)
+	at com.recommendation.restaurant.Utility.filterJSONResponse(Utility.java:30)
+	at com.recommendation.restaurant.Yelp.getRestaurantSearched(Yelp.java:55)
+	at com.recommendation.restaurant.Yelp.search(Yelp.java:89)
+	at com.recommendation.restaurant.Yelp.main(Yelp.java:96)
+2014-04-27 12:29:02,987 - com.recommendation.restaurant.Yelp - DEBUG - Parsed the response from the server, Incident fetched
+2014-04-27 12:29:02,988 - com.recommendation.restaurant.Yelp - DEBUG - ERROR: Cannot parse the JSON response receieved from server
+org.json.JSONException: JSONObject["image_url"] not found.
+	at org.json.JSONObject.get(JSONObject.java:454)
+	at com.recommendation.restaurant.Utility.filterJSONResponse(Utility.java:38)
+	at com.recommendation.restaurant.Yelp.getRestaurantSearched(Yelp.java:55)
+	at com.recommendation.restaurant.Yelp.search(Yelp.java:89)
+	at com.recommendation.restaurant.Yelp.main(Yelp.java:96)
+2014-04-27 14:05:47,109 - com.recommendation.restaurant.Yelp - DEBUG - Parsed the response from the server, Incident fetched
+2014-04-27 14:05:47,130 - com.recommendation.restaurant.Yelp - DEBUG - ERROR: Cannot parse the JSON response receieved from server
+org.json.JSONException: JSONObject["image_url"] not found.
+	at org.json.JSONObject.get(JSONObject.java:454)
+	at com.recommendation.restaurant.Utility.filterJSONResponse(Utility.java:38)
+	at com.recommendation.restaurant.Yelp.getRestaurantSearched(Yelp.java:55)
+	at com.recommendation.restaurant.Yelp.search(Yelp.java:89)
+	at com.recommendation.restaurant.Yelp.main(Yelp.java:96)
+2014-04-27 14:06:12,492 - com.recommendation.restaurant.Yelp - DEBUG - Parsed the response from the server, Incident fetched
+2014-04-27 14:06:12,492 - com.recommendation.restaurant.Yelp - DEBUG - Parsed the response from the server, Incident fetched
+2014-04-27 14:06:12,492 - com.recommendation.restaurant.Yelp - DEBUG - Parsed the response from the server, Incident fetched
+2014-04-27 14:06:12,492 - com.recommendation.restaurant.Yelp - DEBUG - Parsed the response from the server, Incident fetched
+2014-04-27 14:06:12,493 - com.recommendation.restaurant.Yelp - DEBUG - Parsed the response from the server, Incident fetched
+2014-04-27 14:06:12,493 - com.recommendation.restaurant.Yelp - DEBUG - ERROR: Cannot parse the JSON response receieved from server
+org.json.JSONException: JSONObject["image_url"] not found.
+	at org.json.JSONObject.get(JSONObject.java:454)
+	at com.recommendation.restaurant.Utility.filterJSONResponse(Utility.java:38)
+	at com.recommendation.restaurant.Yelp.getRestaurantSearched(Yelp.java:55)
+	at com.recommendation.restaurant.Yelp.search(Yelp.java:89)
+	at com.recommendation.restaurant.Yelp.main(Yelp.java:96)
+2014-04-27 14:06:52,814 - com.recommendation.restaurant.Yelp - DEBUG - Parsed the response from the server, Incident fetched
+2014-04-27 14:06:52,815 - com.recommendation.restaurant.Yelp - DEBUG - Parsed the response from the server, Incident fetched
+2014-04-27 14:06:52,815 - com.recommendation.restaurant.Yelp - DEBUG - Parsed the response from the server, Incident fetched
+2014-04-27 14:06:52,815 - com.recommendation.restaurant.Yelp - DEBUG - Parsed the response from the server, Incident fetched
+2014-04-27 14:06:52,815 - com.recommendation.restaurant.Yelp - DEBUG - Parsed the response from the server, Incident fetched
+2014-04-27 14:06:52,815 - com.recommendation.restaurant.Yelp - DEBUG - Parsed the response from the server, Incident fetched
+2014-04-27 14:06:52,815 - com.recommendation.restaurant.Yelp - DEBUG - Parsed the response from the server, Incident fetched
+2014-04-27 14:06:52,816 - com.recommendation.restaurant.Yelp - DEBUG - ERROR: Cannot parse the JSON response receieved from server
+org.json.JSONException: JSONObject["image_url"] not found.
+	at org.json.JSONObject.get(JSONObject.java:454)
+	at com.recommendation.restaurant.Utility.filterJSONResponse(Utility.java:38)
+	at com.recommendation.restaurant.Yelp.getRestaurantSearched(Yelp.java:55)
+	at com.recommendation.restaurant.Yelp.search(Yelp.java:89)
+	at com.recommendation.restaurant.Yelp.main(Yelp.java:96)
+2014-07-16 22:17:15,049 - com.recommendation.restaurant.Yelp - DEBUG - ERROR: Cannot parse the JSON response receieved from server
+org.json.JSONException: JSONObject["businesses"] not found.
+	at org.json.JSONObject.get(JSONObject.java:454)
+	at org.json.JSONObject.getJSONArray(JSONObject.java:535)
+	at com.recommendation.restaurant.Yelp.getRestaurantSearched(Yelp.java:44)
+	at com.recommendation.restaurant.Yelp.search(Yelp.java:84)
+	at com.recommendation.restaurant.Yelp.main(Yelp.java:91)
